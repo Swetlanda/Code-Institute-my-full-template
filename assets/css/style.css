@@ -1,0 +1,21 @@
+/* Asteriks wilcard selector to override default styles added by the browser */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+/* header */
+header {
+    background-color:red
+}
+
+/* main content */
+main {
+    background-color: lightblue;
+}
+
+/* footer */
+footer {
+    background-color: orange;
+}
