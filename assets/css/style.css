@@ -23,6 +23,9 @@ h1, h2, h3 {
     letter-spacing: 2px;
     color: #252525;
 }
+.hidden-heading {
+    display: none;
+}
 
 /* Header */
 header {
@@ -172,7 +175,7 @@ margin: 5px 0;
 
 }
 #times h3 {
-    /* Override teh heading color set in general styles */
+    /* Override the heading color set in general styles */
     color: #fafafafa;
 }
 
